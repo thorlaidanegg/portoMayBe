@@ -5,7 +5,7 @@ import { CharacterController } from "./CharacterController";
 import { Map } from "./Map";
 import { Dragon } from "./Dragon";
 import { Pig } from "./Pig";
-import { ThreeHead } from "./ThreeHead";
+import { ThreeHead } from "./Threehead";
 
 const maps = {
   swamp: {
